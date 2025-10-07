@@ -38,4 +38,4 @@ Aplicación Android desarrollada en Kotlin que permite:
 
 ---
 
-### 📂 Estructura principal del proyecto
+**Repositorio creado para fines académicos - Computación Móvil, 2025**
