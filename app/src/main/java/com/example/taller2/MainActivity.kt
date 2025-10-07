@@ -23,7 +23,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.btnSalir.setOnClickListener {
-            finish()
+            startActivity(Intent(this, MapaActivity::class.java))
         }
     }
 }
+
